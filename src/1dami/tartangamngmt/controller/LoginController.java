@@ -1,1 +1,1 @@
-package 1dami.tartangamngmt
+package 1dami.tartangamngmt.controller;
